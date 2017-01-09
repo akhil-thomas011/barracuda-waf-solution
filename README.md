@@ -44,5 +44,9 @@ Build your Barracuda WAF environment on Azure in a few simple steps:
 - Fill in all the required parameter values. Accept the terms and condition on click Purchase. The deployment takes about 30 minutes. 
 - Follow the post deployment configuration document here for further configuration. 
 
+##Support 
+
+For any support related questions or customization requirements, please contact ###info@spektrasystems.com###
+
 
 
