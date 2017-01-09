@@ -42,7 +42,7 @@ This Barracuda Web Application Firewall is the PAYG model and doesn't require th
 Build your Barracuda WAF environment on Azure in a few simple steps:  
 - Launch the Template by click on Deploy on Azure.  
 - Fill in all the required parameter values. Accept the terms and condition on click Purchase. The deployment takes about 30 minutes. 
-- Follow the post deployment configuration document here for further configuration. 
+- Follow the post deployment configuration document [here](https://github.com/SpektraSystems/barracuda-waf-solution/blob/master/images/barracuda-waf-post-deployment-configuration-guide.pdf) for further configuration. 
 
 ##Support 
 
