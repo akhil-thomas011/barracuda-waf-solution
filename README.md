@@ -13,4 +13,19 @@ The Barracuda Web Application Firewall inspects inbound web traffic and blocks S
 
 Once deployment finishes, you will able to directly access fully configured Barracuda GUI and start publishing your web applications.
 
+##Deployment Solution Architecture 
+
+This template will deploy: 
+
+- Two storage account 
+-	One Virtual Network with two subnets
+-	One Load Balancer to facilitate RDP access (via NAT Rules) to backend web servers
+-	2 Public IP’s, one for Barracuda WAF and other for LB 
+-	Virtual Machines Availability set for Barracuda and Backend Web server VMs.
+-	One Barracuda WAF VM
+-	Two Windows Server 2012 R2 VMs
+-	Automated deployment of IIS in Windows VM’s
+
+![Deployment Solution Architecture](https://github.com/SpektraSystems/barracuda-waf-solution/blob/master/images/barracuda-architecture.png?raw=true)
+
 
