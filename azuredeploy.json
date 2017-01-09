@@ -74,7 +74,7 @@
     },
     "baseUri": {
       "type": "string",
-      "defaultValue": "https://spektraazurelabs.blob.core.windows.net/barracuda/",
+      "defaultValue": "https://raw.githubusercontent.com/SpektraSystems/barracuda-waf-solution/master/scripts/",
       "metadata": {
         "description": "base uri for your git repo where template artifacts such as scripts are stored. Leave unchanged if you're not sure about it"
       }
