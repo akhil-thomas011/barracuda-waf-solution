@@ -21,7 +21,7 @@
       "value": "Standard_LRS"
     },
     "baseUri": {
-      "value": "https://spektraazurelabs.blob.core.windows.net/barracuda/"
+      "value": "https://raw.githubusercontent.com/SpektraSystems/barracuda-waf-solution/master/scripts/"
     }
   }
 }
