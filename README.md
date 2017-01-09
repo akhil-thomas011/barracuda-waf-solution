@@ -32,5 +32,17 @@ This template will deploy:
 
 This Barracuda Web Application Firewall is the PAYG model and doesn't require the user to license it, it will be licensed automatically after the instance is launched first time and user will be charged hourly for Barracuda Web Application Firewall Software on Microsoft. Click [here](https://azure.microsoft.com/en-us/marketplace/partners/barracudanetworks/waf/#hourly) for pricing details.
 
+##Prerequisites 
+
+- Azure Subscription with specified payment method (Barracuda WAF is a market place product and requires payment method to be specified in Azure Subscription
+-	User account with admin or contributor access to the given azure subscription
+
+##Deployment Steps  
+
+Build your Barracuda WAF environment on Azure in a few simple steps:  
+- Launch the Template by click on Deploy on Azure.  
+- Fill in all the required parameter values. Accept the terms and condition on click Purchase. The deployment takes about 30 minutes. 
+- Follow the post deployment configuration document here for further configuration. 
+
 
 
