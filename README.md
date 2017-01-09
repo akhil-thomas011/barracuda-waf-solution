@@ -46,7 +46,7 @@ Build your Barracuda WAF environment on Azure in a few simple steps:
 
 ##Support 
 
-For any support related questions or customization requirements, please contact ###info@spektrasystems.com###
+For any support related questions or customization requirements, please contact info@spektrasystems.com
 
 
 
