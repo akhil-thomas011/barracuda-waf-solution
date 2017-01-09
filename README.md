@@ -28,4 +28,9 @@ This template will deploy:
 
 ![Deployment Solution Architecture](https://github.com/SpektraSystems/barracuda-waf-solution/blob/master/images/barracuda-architecture.png?raw=true)
 
+##Licenses and Costs 
+
+This Barracuda Web Application Firewall is the PAYG model and doesn't require the user to license it, it will be licensed automatically after the instance is launched first time and user will be charged hourly for Barracuda Web Application Firewall Software on Microsoft. Click [here](https://azure.microsoft.com/en-us/marketplace/partners/barracudanetworks/waf/#hourly) for pricing details.
+
+
 
